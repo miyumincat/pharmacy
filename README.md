@@ -1,18 +1,18 @@
 xml를 csv로 바꿔주는 사이트 
-https://data.page/xml/csv 
+https://data.page/xml/csv </br>
 
 참고자료 
-https://wonhwa.tistory.com/16
+https://wonhwa.tistory.com/16</br>
 
 ---------------------------------
-요청변수 
-Q0 : 주소(시도)
-Q1: 주소(시군구)
-QT: 진료요일 
-QN: 기관명
-ORD: 순서
-pageNo: 페이지번호
-numOfRows: 목록건수
+요청변수 </br>
+Q0 : 주소(시도) </br>
+Q1: 주소(시군구)</br>
+QT: 진료요일 </br>
+QN: 기관명</br>
+ORD: 순서</br>
+pageNo: 페이지번호</br>
+numOfRows: 목록건수</br>
 
 
 -----------------
